@@ -76,39 +76,6 @@ console.log(yourName + " " + "your marks is" + " " + obtainedMarks + " " + "and 
 
 
 
-// // User ka naam lena
-// var yourName = prompt("Enter your Name");
-
-// // 3 subjects ka naam lena
-// var subject1 = prompt("Enter your first subject", "English");
-// var subject2 = prompt("Enter your second subject", "Urdu");
-// var subject3 = prompt("Enter your third subject", "Math");
-
-// // Total marks (har subject ka 100)
-// var totalMarksPerSubject = 100;
-// var totalMarks = totalMarksPerSubject * 3; // 3 subjects ke liye total marks 300 hoga
-
-// // Hasil kiye gaye marks lena
-// var marks1 = parseInt(prompt("Enter marks for " + subject1));
-// var marks2 = parseInt(prompt("Enter marks for " + subject2));
-// var marks3 = parseInt(prompt("Enter marks for " + subject3));
-
-// // Obtained marks ka total
-// var obtainedMarks = marks1 + marks2 + marks3;
-
-// // Percentage calculate karna
-// var percentage = (obtainedMarks / totalMarks) * 100;
-
-// // Result ko browser mein dikhana (using document.write for simplicity)
-// document.write("<h2>Result of " + yourName + "</h2>");
-// document.write("<table border='1' cellpadding='10'><tr><th>Subject</th><th>Marks Obtained</th><th>Total Marks</th></tr>");
-// document.write("<tr><td>" + subject1 + "</td><td>" + marks1 + "</td><td>" + totalMarksPerSubject + "</td></tr>");
-// document.write("<tr><td>" + subject2 + "</td><td>" + marks2 + "</td><td>" + totalMarksPerSubject + "</td></tr>");
-// document.write("<tr><td>" + subject3 + "</td><td>" + marks3 + "</td><td>" + totalMarksPerSubject + "</td></tr>");
-// document.write("</table>");
-// document.write("<p>Total Marks: " + obtainedMarks + " / " + totalMarks + "</p>");
-// document.write("<p>Percentage: " + percentage.toFixed(2) + "%</p>");
-
 
 
 
