@@ -174,6 +174,30 @@
 // } else if (month == 7){
 
 
+// ====================  question no 20 ========================
+
+// var number = prompt("enter a number");
+// if(number < 0){
+//     console.log("negative value")
+// } else if (number > 0 ){
+//     console.log("positive value");
+// } else if (number == "0") {
+//     console.log("zero value");
+// }
+
+
+// ====================  question no 21 ========================
+
+// var vowels = prompt("enter a vowel name");
+
+// if (vowels == "v" || vowels == "o" || vowels == "w" || vowels == "e" || vowels == "l" ){
+//     console.log("yes it's vowel");
+// } else {
+//     console.log("not to vowel other alphabats");
+// }
+
+
+
 
 
 
